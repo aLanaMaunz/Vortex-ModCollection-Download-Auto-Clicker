@@ -1,10 +1,10 @@
 Fork of a Chat-GPD(?) script to automate the download process of vortex collections as a non-premium user. Added some QoL and improvements to the script. I know nothing about phyton, but it works pretty well? Downloaded 1200 mods without any major problems. (There are still "custom" popups which require manual interaction, but they are really rare.)
 
 Usage:
-- (Download and Install Phython + dependencies)
-- Download and extract everything from the latest release (https://github.com/aLanaMaunz/Vortex-ModCollection-Download-Auto-Clicker/releases/download/v0.9/Vortex-ModCollection-Download-Auto-Clicker.7z) (yes, the pictures too).
-- Move everything into the same folder and start the .py script.
-- Open vortex and start installation a mod collection.
+- (Download and install Phython + dependencies. HINT: You can skip this if you use the precompiled exe release in case you don't want/have a Phyton installation.)
+- Download and extract everything from the latest release (yes, the pictures too).
+- Move everything into the same folder and start the .py script or the .exe.
+- Open vortex and start installing a mod collection.
 - Move the vortex window to your main screen.
 - Wait until a browser window opens and move it to the main screen too.
 - Go AFK and wait until everything is done.
@@ -20,3 +20,6 @@ pip install pyautogui
 
 pip install opencv-python
 
+Note:
+
+.exe packed with pyinstaller -F yourprogram.py on a Windows 11 Pro setup.
