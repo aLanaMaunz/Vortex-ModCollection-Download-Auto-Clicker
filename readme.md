@@ -8,7 +8,10 @@ Usage:
 - Wait until a browser window opens and move it to the main screen too.
 - Go AFK and wait until everything is done.
 
-(Looks like the script can't find windows on other monitors, make sure the browser always opens/stays on your main screen.)
+Known problems:
+- Looks like the script can't find windows on other monitors, make sure the browser always opens/stays on your main screen. Usage on multiple monitor setups can be a pain.
+- Not working in background, only things like "light browsing" or watching a video on a 2nd screen is possible.
+- No 100% afk solution, thanks to all the custom mod popups and configurations. (still saves A LOT of time and mentalhealth.)
 
 Dependencies:
 
