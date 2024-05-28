@@ -10,5 +10,8 @@ Usage:
 (Looks like the script can't find windows on other monitors, make sure the browser always opens/stays on your main screen.)
 
 Dependencies:
+
 pip install pyautogui
+
 pip install opencv-python
+
