@@ -1,4 +1,4 @@
-Fork of a Chat-GPD(?) script to automate the download process of vortex collections as a non-premium user. Added some QoL and improvements to the script. I know nothing about phyton, but it works pretty well? Downloaded 1200 mods without any major problems. (There are still "custom" popups which require manual interaction, but they are really rare.)
+Fork of a Chat-GPT(?) script to automate the download process of vortex collections as a non-premium user. Added some QoL and improvements to the script. I know nothing about phyton, but it works pretty well? Downloaded 1200 mods without any major problems. (There are still "custom" popups which require manual interaction, but they are really rare.)
 
 Usage:
 - (Download and install Phython + dependencies. HINT: You can skip this if you use the "precompiled" exe release in case you don't want/have a Phyton installation.)
